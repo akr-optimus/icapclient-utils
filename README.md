@@ -1,4 +1,4 @@
-pyicap-client
+icaputils
 ===
 
-An ICAP Client written purely in python
+Simple ICAP Server and Client libraries 

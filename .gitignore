@@ -1,0 +1,8 @@
+*.pyc
+*.iml
+*.xml
+build
+dist
+MANIFEST
+.idea
+.name
