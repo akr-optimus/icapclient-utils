@@ -1,4 +1,4 @@
-icaputils
+icapclient-utils
 ===
 
-Simple ICAP Server and Client libraries 
+Simple ICAP Client libraries 
