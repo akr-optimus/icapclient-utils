@@ -3,6 +3,6 @@
 from setuptools import setup
 
 setup(
-    name='icaputils',
+    name='icapclient-utils',
     version='1.0',
 )
